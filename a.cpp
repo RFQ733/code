@@ -3,8 +3,10 @@ using namespace std;
 int main()
 {
     int a;
-    cin >> a;
-    int x ;
-    cin >>x ;
-    
+    int b ;
+    std::cin >> b ;
+    std::vector<int>x(20,0) ;
+    for(auto w : x){
+        
+    }
 }
